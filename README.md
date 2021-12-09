@@ -23,7 +23,7 @@
     - `Ctrl + j`：输入学号+姓名
     - `Alt + j`：输入姓名+学号
 
-![animation](figs\animation.gif)
+![animation](figs/animation.gif)
 
 ## 🔒LICENSE
 
